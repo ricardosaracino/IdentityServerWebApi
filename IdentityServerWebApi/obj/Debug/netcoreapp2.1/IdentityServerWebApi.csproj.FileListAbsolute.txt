@@ -11,3 +11,4 @@ C:\Users\Ricardo\Projects\IdentityServerWebApi\IdentityServerWebApi\obj\Debug\ne
 C:\Users\Ricardo\Projects\IdentityServerWebApi\IdentityServerWebApi\obj\Debug\netcoreapp2.1\IdentityServerWebApi.RazorTargetAssemblyInfo.cache
 C:\Users\Ricardo\Projects\IdentityServerWebApi\IdentityServerWebApi\obj\Debug\netcoreapp2.1\IdentityServerWebApi.dll
 C:\Users\Ricardo\Projects\IdentityServerWebApi\IdentityServerWebApi\obj\Debug\netcoreapp2.1\IdentityServerWebApi.pdb
+C:\Users\Ricardo\Projects\IdentityServerWebApi\IdentityServerWebApi\obj\Debug\netcoreapp2.1\IdentityServerWebApi.csprojAssemblyReference.cache
